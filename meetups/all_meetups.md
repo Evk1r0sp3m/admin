@@ -7,6 +7,7 @@
 [Repo](https://github.com/pwaller/go2ll-talk)  
 
 * An infosec overview of Go - Ross Prendergast
+[Slides](https://docs.google.com/presentation/d/1vzmVUucUFiN33jRB8SQnLDnE30DOG8CJIP35KMIgbQQ/edit?usp=sharing)
 
 ### [February 2019](#02.2019)
 
